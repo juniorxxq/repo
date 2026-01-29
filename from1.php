@@ -36,7 +36,7 @@
         /* กล่องฟอร์ม */
         .form-card {
             background-color: var(--card-bg);
-            padding: 40px;
+            padding: 30px ;
             border-radius: 24px;
             box-shadow: 0 10px 30px rgba(0, 0, 0, 0.04);
             width: 100%;
